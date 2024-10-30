@@ -26,7 +26,7 @@ To run this project, you need to have [Maven](https://maven.apache.org/) install
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/himen34/Java_Lab_1.git
+git clone https://github.com/himen34/Java_Lab_3.git
 cd Java_Lab_3
 ```
 
